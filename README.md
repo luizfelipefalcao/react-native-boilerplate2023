@@ -7,9 +7,6 @@ A react native application with linting, husky and commitlint.
 ## Tech stack
 
 -   React Native : For Cross platform mobile app development (iOS & Android)
--   Node JS: For JS runtime environment
--   Javascript : For application development
--   Linting: eslint with commit hooks
 
 ## Packages used
 
@@ -65,5 +62,3 @@ Go to android folder
 ./gradlew clean
 ./gradlew cleanBuildCache
 ```
-
-\

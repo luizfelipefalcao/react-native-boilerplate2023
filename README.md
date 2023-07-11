@@ -2,8 +2,6 @@
 
 A react native application with linting, husky and commitlint.
 
-[![React Native](https://iili.io/HYGqeKQ.png)](https://reactnative.dev/)
-
 ## Tech stack
 
 -   React Native : For Cross platform mobile app development (iOS & Android)

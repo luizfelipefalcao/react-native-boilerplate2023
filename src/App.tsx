@@ -5,7 +5,7 @@ import {
 
 function App(): JSX.Element {
   return (
-    <SafeAreaView>
+    <SafeAreaView style={{ backgroundColor: '#eaeaea' }}>
       <View style={styles.container}>
         <Text style={styles.text}>React Native</Text>
       </View>
